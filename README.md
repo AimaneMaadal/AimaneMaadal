@@ -1,18 +1,45 @@
-<h1 align="center">Hi 👋, I'm Aimane</h1>
-<h3 align="center">A passionate frontend developer from Belgium</h3>
+### Hi, I'm Aimane! &nbsp;&nbsp;<sup>👾 &#12299; Creative Developer</sup>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aimanemaadal&label=Profile%20views&color=0e75b6&style=flat" alt="aimanemaadal" /> </p>
+CREATIVE DEVELOPER FOCUSING ON FRONTEND DEVELOPMENT AND DIGITAL EXPERIENCES. PASSION FOR DESIGN FUELS MY DRIVE TO CREATE IMMERSIVE AND VISUALLY CAPTIVATING DIGITAL EXPERIENCES THAT LEAVE A LASTING IMPRESSION.
 
-- 👨‍💻 All of my projects are available at [aimane.dev](aimane.dev)
+----
 
-- 📫 How to reach me **aimanemaadal@gmail.com**
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
+![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
+![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=ruby&color=36465D&logoColor=AAA&style=flat-square)
+![scala](https://img.shields.io/static/v1?logo=scala&label=&message=scala&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
+![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
+![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
+![spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=spark&color=36465D&logoColor=AAA&style=flat-square)
+![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
+![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aimane maadal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aimane maadal" height="30" width="40" /></a>
-</p>
+**Senior Data & Platform Engineer** &#12299;_working in Data, Reliability Analytics & Automation_
+<br/>
+**Digital Artist & Creator** &#12299;_specialised in neo-noir pixel art animations and 8bit-ish art_
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+----
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aimanemaadal&show_icons=true&locale=en" alt="aimanemaadal" /></p>
+<a href="https://twitter.com/moertel">
+  <img align="left" alt="Stefanie's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+</a>
+<a href="https://www.instagram.com/moer.tel/">
+  <img align="left" alt="Stefanie's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
+<a href="https://linkedin.com/in/stefaniegrunwald">
+  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+<a href="https://moertel.tumblr.com/">
+  <img align="left" alt="Stefanie's Tumblr" width="20px" src="https://simpleicons.now.sh/tumblr/495f7e" />
+</a>
+<a href="https://behance.net/moertel">
+  <img align="left" alt="Stefanie's Behance" width="20px" src="https://simpleicons.now.sh/behance/495f7e" />
+</a>
+
+| &nbsp;&nbsp;&nbsp; Website & Gallery : [https://moer.tel](https://moer.tel) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
